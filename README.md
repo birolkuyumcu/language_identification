@@ -44,5 +44,7 @@ Overall results of trained model for test set of data
 | Recall   | 0.93  |
 | F1       | 0.93  |
 
+## Detailed Results 
 
+[full_results.md](full_results.md)
 
