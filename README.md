@@ -48,3 +48,15 @@ Overall results of trained model for test set of data
 
 [full_results.md](full_results.md)
 
+## FastAPI
+
+for starting server
+```bash
+uvicorn main:app --reload
+```
+
+for documentation 
+
+[http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
+
+after started server
