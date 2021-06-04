@@ -1,5 +1,6 @@
 """
-SefaMerve ArGe 2021
+
+Copyright 2021 SefaMerve R&D Center
 
 """
 import joblib
