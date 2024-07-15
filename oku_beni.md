@@ -47,6 +47,3 @@ Overall results of trained model for test set of data
 ## Detaylı Sonuçlar 
 
 [full_results.md](full_results.md)
-
-## Github 2FA removed 
-Deneme
